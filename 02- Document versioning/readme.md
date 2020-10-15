@@ -1,0 +1,1 @@
+Git is the best document versioning tool, opensource, could be used, it saves everything from history to differences, currenct and old everything.
